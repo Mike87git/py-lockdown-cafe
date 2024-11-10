@@ -1,5 +1,3 @@
-
-
 class VaccineError(Exception):
     """Base exception for vaccine-related issues."""
     pass
